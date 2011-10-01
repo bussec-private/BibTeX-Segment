@@ -1,0 +1,2 @@
+A small script that extracts citations from a LaTeX file and
+compiles a BibTeX library matching these citations.
